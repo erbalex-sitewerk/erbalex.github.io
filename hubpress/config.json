@@ -1,10 +1,10 @@
 {
   "meta": {
-    "username": "erbalex-sitewerk",
+    "username": "erbalex",
     "repositoryName": "erbalex.github.io",
     "branch": "gh-pages"
   },
   "theme": {
-    "name": "Casper"
+    "name": "Saga"
   }
 }
